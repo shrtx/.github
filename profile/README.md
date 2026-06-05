@@ -70,13 +70,7 @@ The platform spans:
 - [Merge PDF](https://shrtx.in/tools/pdf-merge)
 - [Split PDF](https://shrtx.in/tools/pdf-split)
 - [PDF OCR](https://shrtx.in/tools/pdf-ocr)
-- [PDF Signer](https://shrtx.in/tools/pdf-signer)
-
-## Identity & QR Systems
-
-- [Student ID Card Maker](https://shrtx.in/tools/student-id-card-maker)
-- [QR Code Generator](https://shrtx.in/tools/qr-code-generator)
-- [Barcode Generator](https://shrtx.in/tools/barcode-generator)
+- [PDF Signer](https://shrtx.in/tools/pdf-sign)
 
 ## Developer Workflows
 
@@ -84,6 +78,7 @@ The platform spans:
 - [Regex Builder](https://shrtx.in/tools/regex-builder)
 - [YAML Validator](https://shrtx.in/tools/yaml-validator)
 - [UUID Generator](https://shrtx.in/tools/uuid-generator)
+- [HTML Formatter](https://shrtx.in/tools/html-formatter)
 
 ---
 
@@ -108,15 +103,13 @@ The platform spans:
 
 Modern browser-native development workflows:
 
-- [JSON Formatter & Validator](https://shrtx.in/tools/json-formatter)
-- [Regex Builder](https://shrtx.in/tools/regex-builder)
+- [URL Parser & Debugger](https://shrtx.in/tools/url-parser)
 - [SQL Query Builder](https://shrtx.in/tools/sql-query-builder)
-- [YAML Validator](https://shrtx.in/tools/yaml-validator)
 - [GraphQL Formatter](https://shrtx.in/tools/graphql-formatter)
 - [Curl to Fetch Converter](https://shrtx.in/tools/curl-to-fetch)
-- [UUID Generator](https://shrtx.in/tools/uuid-generator)
 - [Cron Expression Builder](https://shrtx.in/tools/cron-expression-builder)
 - [Docker Compose Builder](https://shrtx.in/tools/docker-compose-builder)
+- [API Payload Builder](https://shrtx.in/tools/api-payload-builder)
 
 ---
 
@@ -127,8 +120,8 @@ Privacy-focused local security tooling:
 - [Password Strength Checker](https://shrtx.in/tools/password-strength-checker)
 - [Secure Password Generator](https://shrtx.in/tools/password-generator)
 - [SSH Key Generator](https://shrtx.in/tools/ssh-key-generator)
-- [Hash Generator](https://shrtx.in/tools/hash-generator)
-- [JWT Decoder](https://shrtx.in/tools/jwt-decoder)
+- [Hash Generator](https://shrtx.in/tools/hashing-tool)
+- [JWT Decoder](https://shrtx.in/tools/jwt-debugger)
 - [File Encryption Tool](https://shrtx.in/tools/file-encryption)
 - [Data Redaction Tool](https://shrtx.in/tools/data-redaction)
 - [Cookie Audit Tool](https://shrtx.in/tools/cookie-audit-tool)
@@ -140,15 +133,15 @@ Privacy-focused local security tooling:
 
 High-performance browser-native image workflows:
 
-- [Image Compressor](https://shrtx.in/tools/image-compressor)
-- [Image Resizer](https://shrtx.in/tools/image-resizer)
+- [Image Filter Lab](https://shrtx.in/tools/image-filter-lab)
+- [Social Media Image Resizer](https://shrtx.in/tools/social-media-image-resizer)
 - [Image Cropper](https://shrtx.in/tools/image-cropper)
-- [Background Remover](https://shrtx.in/tools/background-remover)
+- [Image to SVG Converter](https://shrtx.in/tools/image-to-svg)
 - [Image to WebP Converter](https://shrtx.in/tools/image-to-webp)
 - [AVIF to JPG Converter](https://shrtx.in/tools/avif-to-jpg)
 - [SVG Optimizer](https://shrtx.in/tools/svg-optimizer)
-- [Image Glitcher](https://shrtx.in/tools/image-glitch)
-- [Photo Print Layout Maker](https://shrtx.in/tools/photo-print-layout)
+- [Image Color Extractor](https://shrtx.in/tools/image-color-extractor)
+- [Image Watermarker](https://shrtx.in/tools/image-watermarker)
 - [EXIF Metadata Remover](https://shrtx.in/tools/exif-remover)
 
 ---
@@ -157,16 +150,15 @@ High-performance browser-native image workflows:
 
 Professional local-first document pipelines:
 
-- [Merge PDF](https://shrtx.in/tools/merge-pdf)
-- [Split PDF](https://shrtx.in/tools/split-pdf)
-- [PDF OCR](https://shrtx.in/tools/pdf-ocr)
-- [PDF Compressor](https://shrtx.in/tools/pdf-compressor)
-- [PDF Signer](https://shrtx.in/tools/pdf-signer)
+- [PDF Image Extractor](https://shrtx.in/tools/pdf-image-extractor)
+- [PDF Redaction Tool](https://shrtx.in/tools//pdf-redaction)
+- [PDF Page Reorder](https://shrtx.in/tools/pdf-reorder)
+- [PDF Compare](https://shrtx.in/tools/pdf-compare)
 - [PDF Watermark](https://shrtx.in/tools/pdf-watermark)
 - [HTML to PDF](https://shrtx.in/tools/html-to-pdf)
 - [PDF to Word Converter](https://shrtx.in/tools/pdf-to-word)
-- [PDF Metadata Editor](https://shrtx.in/tools/pdf-metadata-editor)
-- [Images to PDF](https://shrtx.in/tools/images-to-pdf)
+- [PDF Metadata Editor](https://shrtx.in/tools/pdf-metadata)
+- [Images to PDF](https://shrtx.in/tools/image-to-pdf)
 
 ---
 
@@ -174,8 +166,8 @@ Professional local-first document pipelines:
 
 Structured data transformation utilities:
 
-- [CSV to JSON Converter](https://shrtx.in/tools/csv-to-json)
-- [Excel to JSON Converter](https://shrtx.in/tools/excel-to-json)
+- [CSV to JSON Converter](https://shrtx.in/tools/csv-json-converter)
+- [Excel to JSON Converter](https://shrtx.in/tools/excel-to-json-converter)
 - [XML to JSON Converter](https://shrtx.in/tools/xml-to-json)
 - [JSON Transformer](https://shrtx.in/tools/json-transformer)
 - [CSV Cleaner](https://shrtx.in/tools/csv-cleaner)
@@ -195,7 +187,7 @@ Technical SEO and optimization workflows:
 - [Meta Tag Generator](https://shrtx.in/tools/meta-tag-generator)
 - [Broken Link Checker](https://shrtx.in/tools/broken-link-checker)
 - [Title Length Checker](https://shrtx.in/tools/title-length-checker)
-- [Image Alt Text Generator](https://shrtx.in/tools/image-alt-text-generator)
+- [Image Alt Text Checker](https://shrtx.in/tools/image-alt-text-checker)
 - [Deep Link Builder](https://shrtx.in/tools/deep-link-builder)
 - [UTM Builder](https://shrtx.in/tools/utm-builder)
 
@@ -205,14 +197,10 @@ Technical SEO and optimization workflows:
 
 Operational identity, badge, attendance, and verification workflows:
 
-- [QR Code Generator](https://shrtx.in/tools/qr-code-generator)
+- [QR Code Generator](https://shrtx.in/tools/qr-generator)
 - [Student ID Card Maker](https://shrtx.in/tools/student-id-card-maker)
-- [Barcode Generator](https://shrtx.in/tools/barcode-generator)
-- [Base64 to QR Converter](https://shrtx.in/tools/base64-to-qr)
 - [WiFi QR Code Generator](https://shrtx.in/tools/wifi-qr-generator)
-- [vCard QR Generator](https://shrtx.in/tools/vcard-qr-generator)
-- [URL QR Generator](https://shrtx.in/tools/url-qr-generator)
-- [Email QR Generator](https://shrtx.in/tools/email-qr-generator)
+- [URL QR Generator](https://shrtx.in/tools/url-to-qr-converter)
 
 ---
 
