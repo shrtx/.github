@@ -67,8 +67,8 @@ The platform spans:
 ## PDF & Documents
 
 - [PDF Compressor](https://shrtx.in/tools/pdf-compressor)
-- [Merge PDF](https://shrtx.in/tools/merge-pdf)
-- [Split PDF](https://shrtx.in/tools/split-pdf)
+- [Merge PDF](https://shrtx.in/tools/pdf-merge)
+- [Split PDF](https://shrtx.in/tools/pdf-split)
 - [PDF OCR](https://shrtx.in/tools/pdf-ocr)
 - [PDF Signer](https://shrtx.in/tools/pdf-signer)
 
