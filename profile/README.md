@@ -262,16 +262,7 @@ We welcome:
 * integration experiments
 * bug reports
 * infrastructure discussions
-
----
-
-# Links
-
-* Website: https://shrtx.in
-* Blog: https://shrtx.in/blog
-* X: https://x.com/shrtx
-* LinkedIn: https://linkedin.com/company/shrtx
-
+  
 ---
 
 ## Community
