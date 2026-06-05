@@ -1,16 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shrtx/.github/main/assets/SHRTX%20New%20Logo/SHRTX%20Logo%20Light%20blue%20accents.png" alt="SHRTX" width="100%">
-</p>
-<p align="center">
-  <a href="https://shrtx.in">
-    <img src="https://img.shields.io/badge/Open-SHRTX-blue?style=for-the-badge">
-  </a>
-  <a href="https://shrtx.in/tools">
-    <img src="https://img.shields.io/badge/Explore-Tools-black?style=for-the-badge">
-  </a>
-  <a href="https://github.com/shrtx/shrtx-community">
-    <img src="https://img.shields.io/badge/Open-Source-grey?style=for-the-badge">
-  </a>
+  <img src="https://raw.githubusercontent.com/shrtx/.github/main/assets/SHRTX%20New%20Logo/SHRTX%20Logo%20Light%20blue%20accents.png" alt="SHRTX">
 </p>
 
 <h3 align="center">
@@ -22,44 +11,94 @@ Privacy-First Browser-Native Productivity Infrastructure
 </p>
 
 <p align="center">
+  <a href="https://shrtx.in">
+    <img src="https://img.shields.io/badge/Open-SHRTX-2563EB?style=for-the-badge">
+  </a>
+  <a href="https://shrtx.in/tools">
+    <img src="https://img.shields.io/badge/Explore-Tools-111827?style=for-the-badge">
+  </a>
+  <a href="https://github.com/shrtx/shrtx-community">
+    <img src="https://img.shields.io/badge/Open-Source-374151?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://shrtx.in">Website</a> •
   <a href="https://github.com/shrtx/shrtx-community">Community</a> •
   <a href="https://x.com/shrtx">X</a> •
   <a href="https://linkedin.com/company/shrtx">LinkedIn</a> •
   <a href="https://shrtx.in/blog">Blog</a>
 </p>
+
 ---
 
 # What is SHRTX?
 
-SHRTX is a browser-native productivity ecosystem focused on fast, privacy-first, local processing workflows.
+SHRTX is a browser-native productivity ecosystem focused on privacy-first local processing workflows.
 
-Instead of relying on cloud uploads or server-side processing, SHRTX tools execute directly in the browser or on-device using modern web APIs, canvas rendering systems, client-side compute pipelines, and offline-first architectures.
+Instead of relying on cloud uploads or server-side rendering, SHRTX tools execute directly inside the browser or on-device using modern web APIs, canvas rendering systems, client-side compute pipelines, and offline-first architectures.
 
 The platform spans:
 
-* Developer Utilities
-* Security & Privacy
-* Image Processing
-* PDF Workflows
-* Data Conversion
-* QR & Identity Systems
-* SEO Utilities
-* Text Processing
-* Web Utilities
-* Android Productivity Applications
+- Developer Utilities
+- Security & Privacy
+- Image Processing
+- PDF Workflows
+- Data Conversion
+- QR & Identity Systems
+- SEO Utilities
+- Text Processing
+- Web Utilities
+- Android Productivity Applications
+
+---
+
+# Popular Tools
+
+## Image & Media
+
+- [Image Compressor](https://shrtx.in/tools/image-compressor)
+- [Image Resizer](https://shrtx.in/tools/image-resizer)
+- [Photo Print Layout Maker](https://shrtx.in/tools/photo-print-layout)
+- [Image Glitcher](https://shrtx.in/tools/image-glitch)
+- [SVG Optimizer](https://shrtx.in/tools/svg-optimizer)
+- [Background Remover](https://shrtx.in/tools/background-remover)
+
+## PDF & Documents
+
+- [PDF Compressor](https://shrtx.in/tools/pdf-compressor)
+- [Merge PDF](https://shrtx.in/tools/merge-pdf)
+- [Split PDF](https://shrtx.in/tools/split-pdf)
+- [PDF OCR](https://shrtx.in/tools/pdf-ocr)
+- [PDF Signer](https://shrtx.in/tools/pdf-signer)
+
+## Identity & QR Systems
+
+- [Student ID Card Maker](https://shrtx.in/tools/student-id-card-maker)
+- [QR Code Generator](https://shrtx.in/tools/qr-code-generator)
+- [Barcode Generator](https://shrtx.in/tools/barcode-generator)
+
+## Developer Workflows
+
+- [JSON Formatter](https://shrtx.in/tools/json-formatter)
+- [Regex Builder](https://shrtx.in/tools/regex-builder)
+- [YAML Validator](https://shrtx.in/tools/yaml-validator)
+- [UUID Generator](https://shrtx.in/tools/uuid-generator)
 
 ---
 
 # Platform Scale
 
-* 500+ browser-native tools
-* 15+ workflow categories
-* Local-first architecture
-* Static-first deployment
-* Mobile and desktop workflows
-* Offline-capable utilities
-* Browser-native export systems
+- 500+ browser-native tools
+- 15+ workflow categories
+- Local-first architecture
+- Static-first deployment
+- Mobile and desktop workflows
+- Offline-capable utilities
+- Browser-native export systems
+- Canvas-powered rendering infrastructure
+- High-performance client-side processing
+- Android and web ecosystem support
 
 ---
 
@@ -69,15 +108,15 @@ The platform spans:
 
 Modern browser-native development workflows:
 
-* [JSON Formatter & Validator](https://shrtx.in/tools/json-formatter)
-* [Regex Builder](https://shrtx.in/tools/regex-builder)
-* [SQL Query Builder](https://shrtx.in/tools/sql-query-builder)
-* [YAML Validator](https://shrtx.in/tools/yaml-validator)
-* [GraphQL Formatter](https://shrtx.in/tools/graphql-formatter)
-* [Curl to Fetch Converter](https://shrtx.in/tools/curl-to-fetch)
-* [UUID Generator](https://shrtx.in/tools/uuid-generator)
-* [Cron Expression Builder](https://shrtx.in/tools/cron-expression-builder)
-* [Docker Compose Builder](https://shrtx.in/tools/docker-compose-builder)
+- [JSON Formatter & Validator](https://shrtx.in/tools/json-formatter)
+- [Regex Builder](https://shrtx.in/tools/regex-builder)
+- [SQL Query Builder](https://shrtx.in/tools/sql-query-builder)
+- [YAML Validator](https://shrtx.in/tools/yaml-validator)
+- [GraphQL Formatter](https://shrtx.in/tools/graphql-formatter)
+- [Curl to Fetch Converter](https://shrtx.in/tools/curl-to-fetch)
+- [UUID Generator](https://shrtx.in/tools/uuid-generator)
+- [Cron Expression Builder](https://shrtx.in/tools/cron-expression-builder)
+- [Docker Compose Builder](https://shrtx.in/tools/docker-compose-builder)
 
 ---
 
@@ -85,15 +124,15 @@ Modern browser-native development workflows:
 
 Privacy-focused local security tooling:
 
-* [Password Strength Checker](https://shrtx.in/tools/password-strength-checker)
-* [Secure Password Generator](https://shrtx.in/tools/password-generator)
-* [SSH Key Generator](https://shrtx.in/tools/ssh-key-generator)
-* [Hash Generator](https://shrtx.in/tools/hash-generator)
-* [JWT Decoder](https://shrtx.in/tools/jwt-decoder)
-* [File Encryption Tool](https://shrtx.in/tools/file-encryption)
-* [Data Redaction Tool](https://shrtx.in/tools/data-redaction)
-* [Cookie Audit Tool](https://shrtx.in/tools/cookie-audit-tool)
-* [Email Header Analyzer](https://shrtx.in/tools/email-header-analyzer)
+- [Password Strength Checker](https://shrtx.in/tools/password-strength-checker)
+- [Secure Password Generator](https://shrtx.in/tools/password-generator)
+- [SSH Key Generator](https://shrtx.in/tools/ssh-key-generator)
+- [Hash Generator](https://shrtx.in/tools/hash-generator)
+- [JWT Decoder](https://shrtx.in/tools/jwt-decoder)
+- [File Encryption Tool](https://shrtx.in/tools/file-encryption)
+- [Data Redaction Tool](https://shrtx.in/tools/data-redaction)
+- [Cookie Audit Tool](https://shrtx.in/tools/cookie-audit-tool)
+- [Email Header Analyzer](https://shrtx.in/tools/email-header-analyzer)
 
 ---
 
@@ -101,16 +140,16 @@ Privacy-focused local security tooling:
 
 High-performance browser-native image workflows:
 
-* [Image Compressor](https://shrtx.in/tools/image-compressor)
-* [Image Resizer](https://shrtx.in/tools/image-resizer)
-* [Image Cropper](https://shrtx.in/tools/image-cropper)
-* [Background Remover](https://shrtx.in/tools/background-remover)
-* [Image to WebP Converter](https://shrtx.in/tools/image-to-webp)
-* [AVIF to JPG Converter](https://shrtx.in/tools/avif-to-jpg)
-* [SVG Optimizer](https://shrtx.in/tools/svg-optimizer)
-* [Image Glitcher](https://shrtx.in/tools/image-glitch)
-* [Photo Print Layout Maker](https://shrtx.in/tools/photo-print-layout)
-* [EXIF Metadata Remover](https://shrtx.in/tools/exif-remover)
+- [Image Compressor](https://shrtx.in/tools/image-compressor)
+- [Image Resizer](https://shrtx.in/tools/image-resizer)
+- [Image Cropper](https://shrtx.in/tools/image-cropper)
+- [Background Remover](https://shrtx.in/tools/background-remover)
+- [Image to WebP Converter](https://shrtx.in/tools/image-to-webp)
+- [AVIF to JPG Converter](https://shrtx.in/tools/avif-to-jpg)
+- [SVG Optimizer](https://shrtx.in/tools/svg-optimizer)
+- [Image Glitcher](https://shrtx.in/tools/image-glitch)
+- [Photo Print Layout Maker](https://shrtx.in/tools/photo-print-layout)
+- [EXIF Metadata Remover](https://shrtx.in/tools/exif-remover)
 
 ---
 
@@ -118,16 +157,16 @@ High-performance browser-native image workflows:
 
 Professional local-first document pipelines:
 
-* [Merge PDF](https://shrtx.in/tools/merge-pdf)
-* [Split PDF](https://shrtx.in/tools/split-pdf)
-* [PDF OCR](https://shrtx.in/tools/pdf-ocr)
-* [PDF Compressor](https://shrtx.in/tools/pdf-compressor)
-* [PDF Signer](https://shrtx.in/tools/pdf-signer)
-* [PDF Watermark](https://shrtx.in/tools/pdf-watermark)
-* [HTML to PDF](https://shrtx.in/tools/html-to-pdf)
-* [PDF to Word Converter](https://shrtx.in/tools/pdf-to-word)
-* [PDF Metadata Editor](https://shrtx.in/tools/pdf-metadata-editor)
-* [Images to PDF](https://shrtx.in/tools/images-to-pdf)
+- [Merge PDF](https://shrtx.in/tools/merge-pdf)
+- [Split PDF](https://shrtx.in/tools/split-pdf)
+- [PDF OCR](https://shrtx.in/tools/pdf-ocr)
+- [PDF Compressor](https://shrtx.in/tools/pdf-compressor)
+- [PDF Signer](https://shrtx.in/tools/pdf-signer)
+- [PDF Watermark](https://shrtx.in/tools/pdf-watermark)
+- [HTML to PDF](https://shrtx.in/tools/html-to-pdf)
+- [PDF to Word Converter](https://shrtx.in/tools/pdf-to-word)
+- [PDF Metadata Editor](https://shrtx.in/tools/pdf-metadata-editor)
+- [Images to PDF](https://shrtx.in/tools/images-to-pdf)
 
 ---
 
@@ -135,15 +174,15 @@ Professional local-first document pipelines:
 
 Structured data transformation utilities:
 
-* [CSV to JSON Converter](https://shrtx.in/tools/csv-to-json)
-* [Excel to JSON Converter](https://shrtx.in/tools/excel-to-json)
-* [XML to JSON Converter](https://shrtx.in/tools/xml-to-json)
-* [JSON Transformer](https://shrtx.in/tools/json-transformer)
-* [CSV Cleaner](https://shrtx.in/tools/csv-cleaner)
-* [Data Deduplicator](https://shrtx.in/tools/data-deduplicator)
-* [Base64 Encoder Decoder](https://shrtx.in/tools/base64-codec)
-* [Markdown to HTML Converter](https://shrtx.in/tools/markdown-to-html)
-* [URL Encoder Decoder](https://shrtx.in/tools/url-encoder)
+- [CSV to JSON Converter](https://shrtx.in/tools/csv-to-json)
+- [Excel to JSON Converter](https://shrtx.in/tools/excel-to-json)
+- [XML to JSON Converter](https://shrtx.in/tools/xml-to-json)
+- [JSON Transformer](https://shrtx.in/tools/json-transformer)
+- [CSV Cleaner](https://shrtx.in/tools/csv-cleaner)
+- [Data Deduplicator](https://shrtx.in/tools/data-deduplicator)
+- [Base64 Encoder Decoder](https://shrtx.in/tools/base64-codec)
+- [Markdown to HTML Converter](https://shrtx.in/tools/markdown-to-html)
+- [URL Encoder Decoder](https://shrtx.in/tools/url-encoder)
 
 ---
 
@@ -151,26 +190,29 @@ Structured data transformation utilities:
 
 Technical SEO and optimization workflows:
 
-* [XML Sitemap Generator](https://shrtx.in/tools/sitemap-xml-generator)
-* [Robots.txt Generator](https://shrtx.in/tools/robots-txt-generator)
-* [Meta Tag Generator](https://shrtx.in/tools/meta-tag-generator)
-* [Broken Link Checker](https://shrtx.in/tools/broken-link-checker)
-* [Title Length Checker](https://shrtx.in/tools/title-length-checker)
-* [Image Alt Text Generator](https://shrtx.in/tools/image-alt-text-generator)
-* [Deep Link Builder](https://shrtx.in/tools/deep-link-builder)
-* [UTM Builder](https://shrtx.in/tools/utm-builder)
+- [XML Sitemap Generator](https://shrtx.in/tools/sitemap-xml-generator)
+- [Robots.txt Generator](https://shrtx.in/tools/robots-txt-generator)
+- [Meta Tag Generator](https://shrtx.in/tools/meta-tag-generator)
+- [Broken Link Checker](https://shrtx.in/tools/broken-link-checker)
+- [Title Length Checker](https://shrtx.in/tools/title-length-checker)
+- [Image Alt Text Generator](https://shrtx.in/tools/image-alt-text-generator)
+- [Deep Link Builder](https://shrtx.in/tools/deep-link-builder)
+- [UTM Builder](https://shrtx.in/tools/utm-builder)
 
 ---
 
 ## QR & Identity Systems
 
-Operational identity and badge workflows:
+Operational identity, badge, attendance, and verification workflows:
 
-* [QR Code Generator](https://shrtx.in/tools/qr-code-generator)
-* [Student ID Card Maker](https://shrtx.in/tools/student-id-card-maker)
-* [Barcode Generator](https://shrtx.in/tools/barcode-generator)
-* [QR Attendance Badge Generator](https://shrtx.in/tools/qr-attendance-badge-generator)
-* [Photo Print Layout Maker](https://shrtx.in/tools/photo-print-layout)
+- [QR Code Generator](https://shrtx.in/tools/qr-code-generator)
+- [Student ID Card Maker](https://shrtx.in/tools/student-id-card-maker)
+- [Barcode Generator](https://shrtx.in/tools/barcode-generator)
+- [Base64 to QR Converter](https://shrtx.in/tools/base64-to-qr)
+- [WiFi QR Code Generator](https://shrtx.in/tools/wifi-qr-generator)
+- [vCard QR Generator](https://shrtx.in/tools/vcard-qr-generator)
+- [URL QR Generator](https://shrtx.in/tools/url-qr-generator)
+- [Email QR Generator](https://shrtx.in/tools/email-qr-generator)
 
 ---
 
@@ -180,14 +222,14 @@ SHRTX is built around local-first processing principles.
 
 Core platform characteristics:
 
-* No mandatory uploads
-* Browser-native rendering
-* Static-first infrastructure
-* Offline-capable workflows
-* Minimal telemetry
-* Privacy-first processing
-* Client-side compute pipelines
-* Responsive mobile and desktop tooling
+- No mandatory uploads
+- Browser-native rendering
+- Static-first infrastructure
+- Offline-capable workflows
+- Minimal telemetry
+- Privacy-first processing
+- Client-side compute pipelines
+- Responsive mobile and desktop tooling
 
 ---
 
@@ -195,23 +237,23 @@ Core platform characteristics:
 
 ## Web Platform
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* Canvas APIs
-* IndexedDB
-* Web Workers
-* Static Site Generation
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Canvas APIs
+- IndexedDB
+- Web Workers
+- Static Site Generation
 
 ## Android Platform
 
-* Kotlin
-* Jetpack Compose
-* Android Canvas APIs
-* Room Database
-* PdfDocument APIs
-* Offline-first persistence
+- Kotlin
+- Jetpack Compose
+- Android Canvas APIs
+- Room Database
+- PdfDocument APIs
+- Offline-first persistence
 
 ---
 
@@ -221,28 +263,28 @@ SHRTX focuses on practical workflows instead of novelty utilities.
 
 The ecosystem is designed for:
 
-* developers
-* creators
-* students
-* operational teams
-* institutions
-* educators
-* productivity workflows
-* local document handling
-* browser-native processing
+- developers
+- creators
+- students
+- operational teams
+- institutions
+- educators
+- productivity workflows
+- local document handling
+- browser-native processing
 
 ---
 
 # Featured Projects
 
-| Project              | Description                            |
-| -------------------- | -------------------------------------- |
-| SHRTX.IN             | Browser-native productivity platform   |
-| SHRTX Community      | Open collaboration ecosystem           |
+| Project | Description |
+|---|---|
+| SHRTX.IN | Browser-native productivity platform |
+| SHRTX Community | Open collaboration ecosystem |
 | SHRTX Identity Suite | Offline-first identity workflow system |
-| SHRTX Android Apps   | Native productivity applications       |
-| SHRTX PDF Engine     | Local-first document infrastructure    |
-| SHRTX Image Pipeline | Browser-native image workflows         |
+| SHRTX Android Apps | Native productivity applications |
+| SHRTX PDF Engine | Local-first document infrastructure |
+| SHRTX Image Pipeline | Browser-native image workflows |
 
 ---
 
@@ -250,13 +292,19 @@ The ecosystem is designed for:
 
 SHRTX is evolving toward:
 
-* browser-native compute infrastructure
-* scalable workflow ecosystems
-* cross-platform rendering systems
-* reusable export pipelines
-* institutional productivity tooling
-* privacy-first software systems
-* offline-capable operational utilities
+- browser-native compute infrastructure
+- scalable workflow ecosystems
+- cross-platform rendering systems
+- reusable export pipelines
+- institutional productivity tooling
+- privacy-first software systems
+- offline-capable operational utilities
+
+---
+
+# SHRTX Ecosystem
+
+SHRTX is evolving into a browser-native productivity and processing infrastructure focused on privacy-first local execution for creators, developers, students, businesses, and operational workflows.
 
 ---
 
@@ -266,16 +314,16 @@ SHRTX supports open collaboration around browser-native tooling and local-first 
 
 We welcome:
 
-* contributors
-* workflow ideas
-* feature proposals
-* integration experiments
-* bug reports
-* infrastructure discussions
-  
+- contributors
+- workflow ideas
+- feature proposals
+- integration experiments
+- bug reports
+- infrastructure discussions
+
 ---
 
-## Community
+# Community
 
 Join the discussion:
 
@@ -283,6 +331,6 @@ https://github.com/shrtx/shrtx-community/discussions
 
 ---
 
-## Contributing
+# Contributing
 
 We welcome bug reports, feature ideas, and tool suggestions.
