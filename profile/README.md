@@ -1,6 +1,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shrtx/.github/main/assets/SHRTX%20New%20Logo/SHRTX%20Logo%20Light%20blue%20accents.png" alt="SHRTX" width="100%">
 </p>
+<p align="center">
+  <a href="https://shrtx.in">
+    <img src="https://img.shields.io/badge/Open-SHRTX-blue?style=for-the-badge">
+  </a>
+  <a href="https://shrtx.in/tools">
+    <img src="https://img.shields.io/badge/Explore-Tools-black?style=for-the-badge">
+  </a>
+  <a href="https://github.com/shrtx/shrtx-community">
+    <img src="https://img.shields.io/badge/Open-Source-grey?style=for-the-badge">
+  </a>
+</p>
 
 <h3 align="center">
 Privacy-First Browser-Native Productivity Infrastructure
