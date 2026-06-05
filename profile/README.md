@@ -1,5 +1,23 @@
 # SHRTX
+<p align="center">
+  <img src="https://shrtx.in/og.png" alt="SHRTX" width="100%">
+</p>
 
+<h3 align="center">
+Privacy-First Browser-Native Productivity Infrastructure
+</h3>
+
+<p align="center">
+500+ local-first tools for images, PDFs, QR systems, developer workflows, security utilities, document processing, and productivity pipelines.
+</p>
+
+<p align="center">
+  <a href="https://shrtx.in">Website</a> •
+  <a href="https://github.com/shrtx/shrtx-community">Community</a> •
+  <a href="https://x.com/shrtx">X</a> •
+  <a href="https://linkedin.com/company/shrtx">LinkedIn</a> •
+  <a href="https://shrtx.in/blog">Blog</a>
+</p>
 ---
 
 # What is SHRTX?
